@@ -47,7 +47,8 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="BitUtil.cs" />
-    <Compile Include="PrefixedMultiplex\MultiMessage.cs" />
+    <Compile Include="PrefixedMultiplex\MultiMessageConnection.cs" />
+    <Compile Include="PrefixedMultiplex\Server.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

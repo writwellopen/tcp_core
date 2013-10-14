@@ -1,13 +1,11 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Net;
 using System.Net.Sockets;
+using System.Text;
+using self_server;
 
-namespace self_server
+namespace ServerTemplates.PrefixedMultiplex
 {
-    public class MultiMessage
+    internal class MultiMessageConnection
     {
         private enum ReadType
         {
@@ -96,6 +94,13 @@ namespace self_server
             }
         }
 
+
+        /// <summary>
+        /// this is what is called when some bytes are received by a server or a client
+        /// </summary>
+        /// <param name="data"></param>
+        /// <param name="source"></param>
+        /// <param name="state"></param>
         void streamspindle_OnBytesRead(byte[] data, object source, object state)
         {
             var stream = source as StreamSpindle;
@@ -140,8 +145,6 @@ namespace self_server
                     var s = Encoding.Default.GetString(data);
                     this.OnStringRead(s, this, state);
                 }
-
-
                 stream.BeginReadLoop(sizeof(int), ReadType.Header);
             }
     
