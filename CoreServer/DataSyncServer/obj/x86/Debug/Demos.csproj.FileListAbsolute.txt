@@ -1,0 +1,4 @@
+C:\Users\alexa_000\Documents\GitHub\tcp_core\CoreServer\DataSyncServer\bin\Debug\DataSyncServer.exe
+C:\Users\alexa_000\Documents\GitHub\tcp_core\CoreServer\DataSyncServer\bin\Debug\DataSyncServer.pdb
+C:\Users\alexa_000\Documents\GitHub\tcp_core\CoreServer\DataSyncServer\obj\x86\Debug\DataSyncServer.exe
+C:\Users\alexa_000\Documents\GitHub\tcp_core\CoreServer\DataSyncServer\obj\x86\Debug\DataSyncServer.pdb

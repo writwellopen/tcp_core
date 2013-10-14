@@ -1,0 +1,7 @@
+C:\Users\alexa_000\Documents\GitHub\tcp_core\ServerClientTemplates\PrefixedMultiplex\bin\Debug\ServerTemplates.dll
+C:\Users\alexa_000\Documents\GitHub\tcp_core\ServerClientTemplates\PrefixedMultiplex\bin\Debug\ServerTemplates.pdb
+C:\Users\alexa_000\Documents\GitHub\tcp_core\ServerClientTemplates\PrefixedMultiplex\bin\Debug\AsycTcpCoreLib.dll
+C:\Users\alexa_000\Documents\GitHub\tcp_core\ServerClientTemplates\PrefixedMultiplex\bin\Debug\AsycTcpCoreLib.pdb
+C:\Users\alexa_000\Documents\GitHub\tcp_core\ServerClientTemplates\PrefixedMultiplex\obj\x86\Debug\ServerTemplates.csprojResolveAssemblyReference.cache
+C:\Users\alexa_000\Documents\GitHub\tcp_core\ServerClientTemplates\PrefixedMultiplex\obj\x86\Debug\ServerTemplates.dll
+C:\Users\alexa_000\Documents\GitHub\tcp_core\ServerClientTemplates\PrefixedMultiplex\obj\x86\Debug\ServerTemplates.pdb

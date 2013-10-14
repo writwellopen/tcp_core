@@ -1,0 +1,4 @@
+C:\Users\alexa_000\Documents\GOOP\trunk\AsyncNetworking\Util\bin\self_server.dll
+C:\Users\alexa_000\Documents\GOOP\trunk\AsyncNetworking\Util\bin\self_server.pdb
+C:\Users\alexa_000\Documents\GOOP\trunk\AsyncNetworking\Util\obj\x86\Debug\self_server.dll
+C:\Users\alexa_000\Documents\GOOP\trunk\AsyncNetworking\Util\obj\x86\Debug\self_server.pdb

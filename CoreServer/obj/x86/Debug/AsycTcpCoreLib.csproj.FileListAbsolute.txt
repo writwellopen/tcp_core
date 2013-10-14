@@ -1,0 +1,4 @@
+C:\Users\alexa_000\Documents\GitHub\tcp_core\CoreServer\bin\AsycTcpCoreLib.dll
+C:\Users\alexa_000\Documents\GitHub\tcp_core\CoreServer\bin\AsycTcpCoreLib.pdb
+C:\Users\alexa_000\Documents\GitHub\tcp_core\CoreServer\obj\x86\Debug\AsycTcpCoreLib.dll
+C:\Users\alexa_000\Documents\GitHub\tcp_core\CoreServer\obj\x86\Debug\AsycTcpCoreLib.pdb
